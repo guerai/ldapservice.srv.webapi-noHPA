@@ -2,3 +2,4 @@ Nickname: ldapservice.srv.webapi.nohpa
 path: /ldapservice-webapi-noHPA
 ReplicaSet: 1
 Container_Registry_Base: unitn.icts
+Autoscaler: true
